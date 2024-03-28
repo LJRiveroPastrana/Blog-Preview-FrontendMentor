@@ -23,7 +23,7 @@ body{
 }
 
 .img-svg::before{
-    content: url(assets/images/illustration-article.svg);
+    content: url(illustration-article.svg);
     display: block;
     width: 279px;
     height: 200px;
